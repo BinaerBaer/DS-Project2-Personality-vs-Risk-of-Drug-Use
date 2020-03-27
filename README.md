@@ -24,7 +24,7 @@ whether the user might tend to do drugs in the future. The goal is to prevent dr
 The result of the app is shown in an encouraging way, it might look like to following:
 
 <div>
-<img src="app_template.png" width="400"/>
+<img src="app_template.png" width="800"/>
 </div>
 
 ## Key Takeaways:
@@ -39,6 +39,6 @@ The result of the app is shown in an encouraging way, it might look like to foll
 * Definition of metric:
     * As discussed in the last section recall is also a possible metric for this business case. An optimization on recall might change the results. 
     * Unsettle (recall) vs. don't unsettle (precision) people
-* Our survay data is from people who are already taking drugs. For pur prediction we use personality characteristics, which might change when taking drugs. We however assume that this is not the case. Otherwise we could not use this data to make predictions on potential drug users. This might be clarified talking to an expert.
+* Our survey data is from people who are already taking drugs. For pur prediction we use personality characteristics, which might change when taking drugs. We however assume that this is not the case. Otherwise we could not use this data to make predictions on potential drug users. This might be clarified talking to an expert.
 * In our business case a possibility to overcome this and also to test the predictions might be an optional check whether a tested person turned into a drug user or not after a certain time. 
 * Our model is biased for ethnicity “white”. If possible observations fromdifferent ethnicities should be included.
