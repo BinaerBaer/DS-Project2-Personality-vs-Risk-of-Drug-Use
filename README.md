@@ -14,7 +14,8 @@ The dataset is described [here](https://archive.ics.uci.edu/ml/datasets/Drug+con
 ## Structure of the repository:
 
 In this repository you find the whole process of our approach within our [notebook](DS-Project-Personality-vs-Risk-of-Drug-Use.ipynb).
-In addition we created a business [presentation](DS-Project-Presentation-Personality-vs-Drug-Use.pdf) for our fictitious recommendation app.
+
+In addition we created a business [presentation](DS-Project-Presentation-Personality-vs-Drug-Use.pdf) for our fictitious recommendation app. Don't take this presentation too seriously :wink:.
 
 ## Business Case:
 
